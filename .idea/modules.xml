@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../linku-be/.idea/linku-be.iml" filepath="$PROJECT_DIR$/../linku-be/.idea/linku-be.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/linku-fe.iml" filepath="$PROJECT_DIR$/.idea/linku-fe.iml" />
     </modules>
   </component>
